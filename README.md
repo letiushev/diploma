@@ -1,6 +1,6 @@
-Development workflow
+Development workflow:
 ![alt text](https://github.com/letiushev/diploma/blob/master/images/dev%20dip.png)
 
 
-Production workflow
+Production workflow:
 ![alt text](https://github.com/letiushev/diploma/blob/master/images/prod%20dip.png)
