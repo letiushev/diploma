@@ -2,3 +2,4 @@
 *.bin
 *.pkl
 *.joblib
+node_modules/
